@@ -9,6 +9,7 @@
   "author": "HACKSTER254 KARIRA",
   "license": "ISC",
   "dependencies": {
-    "package-lock": "^1.0.5"
+    "package-lock": "^1.0.5",
+    "pg": "^8.7.1"
   }
 }
